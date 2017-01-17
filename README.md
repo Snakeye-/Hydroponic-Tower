@@ -1,2 +1,3 @@
 # Hydroponic-Tower
-Hydroponic Chile Tower (instructions covered at http://www.snakeye.us/?p=6774)
+Hydroponic Chile Tower code for Particle Photon
+(instructions covered at http://www.snakeye.us/?p=6774)
